@@ -31,6 +31,6 @@
   http://www.rrmgtonline.com/pallet-parts.php
   
   
-  # 国内软件 
+# 国内软件 
   青岛科力特
   http://www.pallet.wang/Default.aspx
